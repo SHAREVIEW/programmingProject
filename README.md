@@ -1,3 +1,8 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+EXAMPLE #3
+
+
 # programmingProject
 
 File: Bluetooth.cs  Project: donnaknew/programmingProject
